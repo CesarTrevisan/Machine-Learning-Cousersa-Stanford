@@ -1,7 +1,6 @@
-# Machine-Learning-Cousersa-Stanford
+# Machine Learning - Universidade de Stanford
 
 Tarefas de programação do curso sobre Machining Learning, ministrado por Andrew Ng, professor de Stanford. 
-
 ### Nota obtida: 96.1%
 
 Link do curso: https://www.coursera.org/learn/machine-learning
